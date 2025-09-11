@@ -24,9 +24,9 @@ func Fibonacci(number int) int {
 
 }
 
-//func main() {
-//	var numero int
-//	fmt.Println("Digite um número: ")
-//	fmt.Scan(&numero)
-//	Fibonacci(numero)
-//}
+func main() {
+	var numero int
+	fmt.Println("Digite um número: ")
+	fmt.Scan(&numero)
+	Fibonacci(numero)
+}

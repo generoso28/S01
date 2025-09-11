@@ -12,9 +12,9 @@ func classificar_numero(numero int) {
 	}
 }
 
-//func main() {
-//	var numero int
-//	fmt.Println("Digite um número: ")
-//	fmt.Scan(&numero)
-//	classificar_numero(numero)
-//}
+func main() {
+	var numero int
+	fmt.Println("Digite um número: ")
+	fmt.Scan(&numero)
+	classificar_numero(numero)
+}
