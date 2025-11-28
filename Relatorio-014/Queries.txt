@@ -1,0 +1,8 @@
+Exercício 001 - Divindades olímpicas
+divindade_olimpica(X).
+Exercício 002 - deus maior
+deus_maior(X).
+Exercício 003 - irmaos germanos
+irmaos_germanos(zeus, X).
+Exercício 004 - ancestral
+ancestral(urano, X).
